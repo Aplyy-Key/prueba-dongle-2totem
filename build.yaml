@@ -1,12 +1,13 @@
+---
 include:
-  1- board: seeeduino_xiao_ble
+  - board: seeeduino_xiao_ble
     shield: totem_left
     
-  2- board: seeeduino_xiao_ble
+  - board: seeeduino_xiao_ble
     shield: totem_right
     
-  3- board: seeeduino_xiao_ble
+  - board: seeeduino_xiao_ble
     shield: totem_dongle
     
-  4- board: seeeduino_xiao_ble
+  - board: seeeduino_xiao_ble
     shield: settings_reset
