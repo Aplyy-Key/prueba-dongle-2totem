@@ -13,10 +13,6 @@ config ZMK_USB
     default y
 
 
-config ZMK_SPLIT_ROLE_CENTRAL
-    default y
-
-
 endif
 
 if SHIELD_TOTEM_DONGLE || SHIELD_TOTEM_LEFT || SHIELD_TOTEM_RIGHT || 
